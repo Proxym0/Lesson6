@@ -1,5 +1,4 @@
-package group1;
-import java.util.Arrays;
+package CreditCard;
 import java.util.Scanner;
 public class CreditCard {
     int accountNumber;
